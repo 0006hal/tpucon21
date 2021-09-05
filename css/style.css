@@ -270,6 +270,12 @@ footer {
     max-width: 80%;
     min-height: 32rem;
   }
+  .tableCard .poster {
+    width: 90%;
+  }
+  .tableCardInfoBot {
+    flex-wrap: wrap;
+  }
   .table th,
   td {
     padding: 0.4rem;
